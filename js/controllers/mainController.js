@@ -1,3 +1,3 @@
 humpYoutube.controller('MainController',['$scope','$location',function($scope, $location){
-  $scope.videoId = $location.search().v || 'b-J95fYuVz4';
+  $scope.videoId = $location.search().v || '8UVNT4wvIGY';
 }]);
