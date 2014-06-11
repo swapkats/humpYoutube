@@ -1,0 +1,1 @@
+var humpYoutube = angular.module('humpYoutube',['ngRoute']);

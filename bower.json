@@ -1,0 +1,18 @@
+{
+  "name": "humpYoutube",
+  "version": "0.0.0",
+  "homepage": "https://github.com/embibeswapnil/humpYoutube",
+  "authors": [
+    "Swapnil Singh <swapnil@embibe.com>"
+  ],
+  "description": "Youtube infinite looper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
