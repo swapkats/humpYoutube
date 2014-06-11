@@ -10,6 +10,6 @@ humpYoutube.directive('youtube', ['$sce', function($sce) {
                scope.url = $sce.trustAsResourceUrl("https://www.youtube.com/v/"+ newVal + "?version=3&loop=1&autoplay=1&playlist="+ newVal);
            }
         });
-    }
-  }];
+    }]
+  };
 }]);
